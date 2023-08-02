@@ -9,6 +9,18 @@ Instrumental in interpreting experiment results and collaborating with cross-fun
 Known for supervising 1500 new employees, developing EHR management dashboard, and excelling in performance tuning
 and troubleshooting. Having an Employment Authorization Document (Form I-766/EAD) to work in USA.
 
+## Core Competencies:
+♦ Health Systems Improvement
+♦ Data Set Organization
+♦ Team Support
+♦ EHR & Data Management
+♦ Research & Analysis
+♦ Tasks Automation
+♦ Client Satisfaction
+♦ Cross-functional Collaboration
+♦ Health Informatics 
+
+
 
 ## 📌 Skills:
 
