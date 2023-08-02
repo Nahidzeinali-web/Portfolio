@@ -11,6 +11,7 @@ and troubleshooting. Having an Employment Authorization Document (Form I-766/EAD
 
 
 ## Skills:
+
 📌Deep learning frameworks: TensorFlow, PyTorch 
 Language models: GPT-3, BERT
 Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML
