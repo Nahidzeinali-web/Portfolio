@@ -21,6 +21,7 @@ Transform cancer symptom management through innovative integration of artificial
 improved patient care.
 
 ✌️ Accomplishments:
+
 ● Natural Language Processing (NLP) & Advanced AI Models: Empowered informed decision-making and revolutionized healthcare practices by leveraging NLP techniques, Python programming and deploying state-of-the-art AI models like BERT and GPT to interpret and extract invaluable insights from unstructured clinical text data. Applied
 advanced machine learning algorithms to classify/analyze textual data to drive data-informed actions and catalyze advancements in healthcare.
 
