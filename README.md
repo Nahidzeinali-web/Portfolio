@@ -34,6 +34,31 @@ personalized mobile application using machine learning, deep learning techniques
 
 ● Statistical Modeling & Machine Learning: Uncovered patterns, made predictions, and derived invaluable insights from health-related datasets by conducting comprehensive cluster and topic analyses, utilizing advanced methodologies to enhance data-driven decision-making.
 
+## Software Engineer, Khorshid Hospital, Isfahan, Iran 2019 – 2021
+
+Exhibited expert-level command over EMR systems, playing pivotal role in spearheading design and development of Electronic Medical Records (EMR), Pharmacy Information Systems (PIS), and Laboratory Information Systems (LIS) resulting in streamlined healthcare workflows, enhanced data management, and improved patient care delivery.
+
+✌️ Accomplishments:
+
+● Software Development & Programming Languages: Delivered high-quality, scalable solutions in agile environments through expert software development in .NET Framework, C#, and service-oriented designs, showcasing adaptability and effectiveness in dynamic settings.
+
+● Healthcare Systems and Standards: Achieved seamless healthcare data exchange and standardized data representation by working with PACS, RIS, DICOM, HL7, IHE, and healthcare terminologies like SNOMED CT, CPT-4, ICD-9-CM, ICD-10-CM, HCPCS, APC, LOINC, RxNorm, etc.
+
+● Networking: Acknowledged for expertise in TCP/IP socket communication, demonstrating profound understanding of network protocols and effective communication methods. Configured routers and switches, and implemented VLANs, optimizing network performance and data security through effective network segmentation.
+
+● Operating Systems & Tools: Operated across diverse computing environments, skillfully utilizing Windows, Linux, networks, Active Directory, server clustering, scripting tools, Microsoft Azure, and VMware to maximize productivity.
+
+## Software Engineer, Parisian Institute, Tehran, Iran 2016 – 2019
+
+Exhibited strong leadership capabilities, fostering effective team collaboration and open communication. Successfully trained and mentored 1500+ employees, contributing to organizational growth and success.
+
+✌️ Accomplishments:
+
+● EHR Systems and management dashboard Developed & Implementation: Utilized SQL, ASP.NET, C#, and Power BI to create & implement efficient electronic health records (EHR) and management dashboard. Enhanced workflow efficiency and promoted patient engagement through innovative technologies.
+
+● Solved Problems and Adapted to Software Development: Showcased exceptional problem-solving skills and adaptability while working on C/C++ programming and real-time sof
+
+
 ## 📌 Skills:
 
 -  Deep learning frameworks: TensorFlow, PyTorch 
