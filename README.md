@@ -1,8 +1,6 @@
 ![I am data scientist](https://media.licdn.com/dms/image/D4D16AQHTujEeb_8qVA/profile-displaybackgroundimage-shrink_350_1400/0/1690406162505?e=1696464000&v=beta&t=Zv3CU7DcNAU63hxT0461_Z1itpDMHZbE4H4TDBbtfwk)
 ### Hi there 👋, MY name is Nahid Zeinali
 #### I am data scientist
-
-
 Dynamic and tech-savvy professional with 7+ years of experience in leveraging data science and engineering methodologies
 to deliver tangible insights and enhance health system outcomes. Committed to designing machine learning systems,
 automating predictive models, and partnering with stakeholders to ensure optimal data techniques and model generation.
@@ -13,14 +11,14 @@ and troubleshooting. Having an Employment Authorization Document (Form I-766/EAD
 
 
 ## Skills:
-# Deep learning frameworks: TensorFlow, PyTorch 
-# Language models: GPT-3, BERT
-# Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML
-# Data Analysis: Pandas, NumPy 
-# Cloud Computing: AWS, HPC cluster 
-# Databases: MS SQL Server, MS Access 
-# Statistical Software: R, SPSS, SAS, STATA 
-# Visualization software: Power Business Intelligent (BI) & Tableau
+📌Deep learning frameworks: TensorFlow, PyTorch 
+Language models: GPT-3, BERT
+Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML
+Data Analysis: Pandas, NumPy 
+Cloud Computing: AWS, HPC cluster 
+Databases: MS SQL Server, MS Access 
+Statistical Software: R, SPSS, SAS, STATA 
+Visualization software: Power Business Intelligent (BI) & Tableau
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NLP and Text analysis 
