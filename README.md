@@ -12,7 +12,15 @@ Known for supervising 1500 new employees, developing EHR management dashboard, a
 and troubleshooting. Having an Employment Authorization Document (Form I-766/EAD) to work in USA.
 
 
-Skills: Deep learning frameworks: TensorFlow, PyTorch /Language models: GPT-3, BERT/Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML/ Data Analysis: Pandas, NumPy /Cloud Computing: AWS, HPC cluster /Databases: MS SQL Server, MS Access /Statistical Software: R, SPSS, SAS, STATA /Visualization software: Power Business Intelligent (BI) & Tableau
+##Skills:
+Deep learning frameworks: TensorFlow, PyTorch 
+Language models: GPT-3, BERT
+Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML
+Data Analysis: Pandas, NumPy 
+Cloud Computing: AWS, HPC cluster 
+Databases: MS SQL Server, MS Access 
+Statistical Software: R, SPSS, SAS, STATA 
+Visualization software: Power Business Intelligent (BI) & Tableau
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NLP and Text analysis 
