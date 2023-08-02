@@ -19,7 +19,8 @@ Dynamic and tech-savvy professional with 7+ years of experience in leveraging da
 # Health Informatics Ph.D. Student, University of Iowa, Iowa City, IA 2021 – Present
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
 improved patient care.
-✌️Accomplishments:
+
+✌️ Accomplishments:
 ● Natural Language Processing (NLP) & Advanced AI Models: Empowered informed decision-making and revolutionized healthcare practices by leveraging NLP techniques, Python programming and deploying state-of-the-art AI models like BERT and GPT to interpret and extract invaluable insights from unstructured clinical text data. Applied
 advanced machine learning algorithms to classify/analyze textual data to drive data-informed actions and catalyze advancements in healthcare.
 
