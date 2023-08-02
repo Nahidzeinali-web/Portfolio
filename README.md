@@ -58,6 +58,19 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 
 ● Solved Problems and Adapted to Software Development: Showcased exceptional problem-solving skills and adaptability while working on C/C++ programming and real-time sof
 
+## Education:
+- Ph.D., Health Informatics (In Progress), University of Iowa, Iowa City, IA
+- M.S, Health Informatics, University of Iowa, Iowa City, IA
+- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
+- B.S, Computer Software Engineering, Islamic Azad University, Isfahan, Iran
+
+## Publication and Conference:
+ N. Zeinali, Stephanie Gilbertson-White et al. “Machine learning approaches to predict symptoms in cancer patients: systematic Review”. In press 2023 A.
+ AlBashayreh, N. Zeinali et al. “Natural Language Processing to Extract Cancer Symptoms from Clinical Notes”. In press 2023.
+ N. Zeinali, S. Setareh and A. Asosheh, “The Conceptual Model to Solve Problem of Interoperability in Health Information Systems”. IEEE, 8th International Symposium on Telecommunications, Iran, September 2016.
+ Nazari E, Zeinali N, et al. “Application of Big Data Analysis in Healthcare Based on 6 Building Blocks of Health Systems: Survey”. Dokkyo Journal of Medical Sciences (DJMS) 2020.
+ Shah Moradi M, Zeinali N, et al. “The Role of Social Networks in Healthcare: Applications and Limitations”. Journal of Health and Biomedical Informatics 2015; 2(2):124-128.
+ Presenting abstract at AMIA 2023 Informatics conference in Seattle, WA: “Using HER data to predict symptom development for cancer symptom-management mobile app.”
 
 ## 📌 Skills:
 
@@ -72,7 +85,7 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 
 
   
-
+## Other
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NLP and Text analysis 
 - 💬 Ask me about Python programming and Text analysis  
