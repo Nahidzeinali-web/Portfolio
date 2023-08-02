@@ -1,6 +1,7 @@
+![I am data scientist](https://media.licdn.com/dms/image/D4D16AQHTujEeb_8qVA/profile-displaybackgroundimage-shrink_350_1400/0/1690406162505?e=1696464000&v=beta&t=Zv3CU7DcNAU63hxT0461_Z1itpDMHZbE4H4TDBbtfwk)
 ### Hi there 👋, MY name is Nahid Zeinali
 #### I am data scientist
-![I am data scientist](https://media.licdn.com/dms/image/D4D16AQHTujEeb_8qVA/profile-displaybackgroundimage-shrink_350_1400/0/1690406162505?e=1696464000&v=beta&t=Zv3CU7DcNAU63hxT0461_Z1itpDMHZbE4H4TDBbtfwk)
+
 
 Dynamic and tech-savvy professional with 7+ years of experience in leveraging data science and engineering methodologies
 to deliver tangible insights and enhance health system outcomes. Committed to designing machine learning systems,
