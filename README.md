@@ -14,11 +14,10 @@ and troubleshooting. Having an Employment Authorization Document (Form I-766/EAD
 Skills: Deep learning frameworks: TensorFlow, PyTorch /Language models: GPT-3, BERT/Programming: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML/ Data Analysis: Pandas, NumPy /Cloud Computing: AWS, HPC cluster /Databases: MS SQL Server, MS Access /Statistical Software: R, SPSS, SAS, STATA /Visualization software: Power Business Intelligent (BI) & Tableau
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning NLP and Text analysis 
+- 💬 Ask me about Python programming and Text analysis  
+- 📫 How to reach me: Nahid-zeinali@uiowa.edu 
 
 
-
-
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ZeinaliNahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myweb.uiowa.edu/nzeinali/)  
 
