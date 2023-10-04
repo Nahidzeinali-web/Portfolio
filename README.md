@@ -35,11 +35,15 @@ personalized mobile application using machine learning, deep learning techniques
 ● Statistical Modeling & Machine Learning: Uncovered patterns, made predictions, and derived invaluable insights from health-related datasets by conducting comprehensive cluster and topic analyses, utilizing advanced methodologies to enhance data-driven decision-making.
 
 Publication in progess: 
- N. Zeinali, Stephanie Gilbertson-White et al. “A systematic Review of Machine Learning Approaches to predict symptoms in people with cancer”.
- A. Bandyopadhyay, N. Zeinali et al. A Predictive Approach to Understanding Symptom Development in Cancer Patients”.
- AlBashayreh, N. Zeinali et al. “Natural Language Processing to Extract Cancer Symptoms from Clinical Notes”.
- N. Zeinali, S. White et al. “Leverage Large Language Models for Enhanced Cancer Symptoms Extraction from Electronic Health Records”.
- S. White, N. Zeinali et al. “Predictors of symptom reporting concordance between patient and provider in the context of cancer and multimorbidity”.
+●  N. Zeinali, Stephanie Gilbertson-White et al. “A systematic Review of Machine Learning Approaches to predict symptoms in people with cancer”.
+
+● A. Bandyopadhyay, N. Zeinali et al. A Predictive Approach to Understanding Symptom Development in Cancer Patients”.
+
+● A. AlBashayreh, N. Zeinali et al. “Natural Language Processing to Extract Cancer Symptoms from Clinical Notes”.
+
+● N. Zeinali, S. White et al. “Leverage Large Language Models for Enhanced Cancer Symptoms Extraction from Electronic Health Records”.
+
+● S. White, N. Zeinali et al. “Predictors of symptom reporting concordance between patient and provider in the context of cancer and multimorbidity”.
 
 ## Software Engineer, Khorshid Hospital, Isfahan, Iran 2019 – 2021
 
