@@ -34,13 +34,12 @@ personalized mobile application using machine learning, deep learning techniques
 
 ● Statistical Modeling & Machine Learning: Uncovered patterns, made predictions, and derived invaluable insights from health-related datasets by conducting comprehensive cluster and topic analyses, utilizing advanced methodologies to enhance data-driven decision-making.
 
-Publication in progess: 
+✌️ Publication in progress:
+
 
 ●  N. Zeinali, Stephanie Gilbertson-White et al. “A systematic Review of Machine Learning Approaches to predict symptoms in people with cancer”.
 
 ● A. Bandyopadhyay, N. Zeinali et al. A Predictive Approach to Understanding Symptom Development in Cancer Patients”.
-
-
 
 ● A. AlBashayreh, N. Zeinali et al. “Natural Language Processing to Extract Cancer Symptoms from Clinical Notes”.
 
