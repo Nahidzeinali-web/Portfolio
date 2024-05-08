@@ -33,34 +33,36 @@ improved patient care.
 ✌️ Accomplishments:
 
 ● Data Analysis & Statistical Modeling: 
+
    -Analyzed Electronic Health Records using Python and statistical methods, yielding fundamental insights that enhanced medical research and patient care. 
    
    -Identified predictors of symptom reporting agreement between patients and providers using deep learning and statistical techniques.
    
 ● Natural Language Processing (NLP) & Large Language Model (LLM): 
+
    -Collaborated closely with the research teams to develop an embeddings-augmented NLP system.
    
    -Understanding the language in clinical notes in the electronic health records (EHR) system using NLP techniques and text analysis. 
+   
    -Developing and comparing a pre-trained language model (like Bio-Clinical BERT and GPT) on customized EHRs to predict 13 cancer symptoms and Palliative care.
+   
    -Design specific prompts to guide GPT-4 in adapting to cancer symptom prediction and palliative care tasks.
+   
 ● Mobile Application Development with AI Techniques: 
+
    -Contributed to developing the OASIS (Oncology Associated Symptoms & Individualized Strategies) mobile app, a tool designed to help people with cancer.
+   
    -Collaborated with colleagues to develop deep-learning algorithms for the app's recommendation system, predicting 14 cancer symptoms in over 18,000 patients.
+   
 ●	Assisted in A/B testing the OASIS prototype on 100 patients, assessing its real-world efficacy and user experience.
+
 Other Project: 
+
    -Collaborated with a team to extract web article content, develop a sentiment classifier, and perform cluster and topic analysis to identify prevalent themes.
+   
    -Worked with a team to leverage Python-based tools and algorithms to enhance and innovate demand forecasting methodologies.
+   
    -Developed a heart disease classification AI system using traditional machine learning models.
-
-
-● Mobile Application Development with AI Techniques: Championed design/implementation of mobile applications, serving niche group of fewer than 100 patients to optimize cancer symptom management and enhance overall patient experiences. Facilitated symptom tracking, queries, and access to educational content by developing an interactive and
-personalized mobile application using machine learning, deep learning techniques, and an integrated recommender system for cancer symptom management.
-
-● Cloud Transition and High-Performance Computing: Orchestrated migration of our recommender system to cloudbased infrastructure, leading to substantial improvements in processing capabilities and data storage capacity.
-
-● Data Analysis: Performed data analysis on intricate datasets related to cancer and heart disease, gaining valuable insights for critical decision-making and contributing to groundbreaking advancements in medical research and patient care.
-
-● Statistical Modeling & Machine Learning: Uncovered patterns, made predictions, and derived invaluable insights from health-related datasets by conducting comprehensive cluster and topic analyses, utilizing advanced methodologies to enhance data-driven decision-making.
 
 
 ## Software Engineer, Khorshid Hospital, Isfahan, Iran 2019 – 2021
@@ -88,8 +90,8 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 ● Solved Problems and Adapted to Software Development: Showcased exceptional problem-solving skills and adaptability while working on C/C++ programming and real-time sof
 
 ## Education:
-- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA
-- M.S, Informatics, University of Iowa, Iowa City, IA
+- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA
+- M.S, Informatics, University of Iowa, Iowa City, IA, USA
 - M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
 - B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran
 
@@ -130,23 +132,23 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 -  Operating Systems & Tools: Windows, Linux, Azure, VMware, Active Directory, server clustering
 
 ##  Honors & Awards 
-- Student Impact Grant(1000$), University of Iowa,Summer 2024
+- Student Impact Grant(1000$), University of Iowa, Summer 2024
   
-- AMIA 10*10 program funded (2000$) by Carver College of Medicine (CCOM), University of Iowa,Spring 2024
+- AMIA 10*10 program funded (2000$) by Carver College of Medicine (CCOM), University of Iowa, Spring 2024
   
 - Research and Travel GPSG Award (1250 $), University of Iowa, Spring 2024
   
-- Research Assistant Grant (6000$), College of Nursing, University of Iowa,Spring 2024
+- Research Assistant Grant (6000$), College of Nursing, University of Iowa, Spring 2024
   
-- Publication Grant (2000$), University of Iowa,Winter2024
+- Publication Grant (2000$), University of Iowa, Winter2024
   
-- Travel GSS Award (650$), Graduate College, University of Iowa,Winter2024
+- Travel GSS Award (650$), Graduate College, University of Iowa, Winter2024
   
-- Travel CS Award (400$), Computer Science Department, University of Iowa,Winter2024
+- Travel CS Award (400$), Computer Science Department, University of Iowa, Winter2024
   
 - Recruitment Fellowship, IGPI (per year), University of Iowa, 2021- 2025
   
-- Recruitment Fellowship, Tarbiat Modares University,2013 -2016
+- Recruitment Fellowship, Tarbiat Modares University, 2013-2016
 
   
 ## Other
