@@ -22,9 +22,16 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ♦ Organizational Skills
 ♦ Teamwork and Independent Work
 ♦ Problem-Solving Skills
+
+## Education:
+- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA
+- M.S, Informatics, University of Iowa, Iowa City, IA, USA
+- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
+- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran
+
 ## Work Experineces:
 
-## Internship, National Cancer Center, Federick National Laboratory, NIH, Summer 2024
+## Internship, National Cancer Center, Federick National Laboratory, NIH,Summer2024
 
 ## Informatics Ph.D. Candidate, University of Iowa, Iowa City, IA 2021 – Present
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
@@ -67,34 +74,17 @@ Other Project:
 
 ## Software Engineer, Khorshid Hospital, Isfahan, Iran 2019 – 2021
 
-Exhibited expert-level command over EMR systems, playing pivotal role in spearheading design and development of Electronic Medical Records (EMR), Pharmacy Information Systems (PIS), and Laboratory Information Systems (LIS) resulting in streamlined healthcare workflows, enhanced data management, and improved patient care delivery.
-
 ✌️ Accomplishments:
 
-● Software Development & Programming Languages: Delivered high-quality, scalable solutions in agile environments through expert software development in .NET Framework, C#, and service-oriented designs, showcasing adaptability and effectiveness in dynamic settings.
-
-● Healthcare Systems and Standards: Achieved seamless healthcare data exchange and standardized data representation by working with PACS, RIS, DICOM, HL7, IHE, and healthcare terminologies like SNOMED CT, CPT-4, ICD-9-CM, ICD-10-CM, HCPCS, APC, LOINC, RxNorm, etc.
-
-● Networking: Acknowledged for expertise in TCP/IP socket communication, demonstrating profound understanding of network protocols and effective communication methods. Configured routers and switches, and implemented VLANs, optimizing network performance and data security through effective network segmentation.
-
-● Operating Systems & Tools: Operated across diverse computing environments, skillfully utilizing Windows, Linux, networks, Active Directory, server clustering, scripting tools, Microsoft Azure, and VMware to maximize productivity.
+●	Collaborated closely with the business teams to develop Electronic Medical Records (EMR), Pharmacy Information Systems (PIS), and Laboratory Information Systems (LIS). This collaboration resulted in streamlined healthcare workflows, enhanced data management, and improved patient care delivery by more than 50%.
+●	Developed an Android application for the automated tracking of heart failure symptoms of over 3,000 heart disease patients in rural areas of Isfahan province.
 
 ## Software Engineer, Parisian Institute, Tehran, Iran 2016 – 2019
 
-Exhibited strong leadership capabilities, fostering effective team collaboration and open communication. Successfully trained and mentored 1500+ employees, contributing to organizational growth and success.
-
 ✌️ Accomplishments:
 
-● EHR Systems and management dashboard Developed & Implementation: Utilized SQL, ASP.NET, C#, and Power BI to create & implement efficient electronic health records (EHR) and management dashboard. Enhanced workflow efficiency and promoted patient engagement through innovative technologies.
-
-● Solved Problems and Adapted to Software Development: Showcased exceptional problem-solving skills and adaptability while working on C/C++ programming and real-time sof
-
-## Education:
-- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA
-- M.S, Informatics, University of Iowa, Iowa City, IA, USA
-- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
-- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran
-
+●	Designed and implemented an efficient Electronic Health Records (EHR) management dashboard system using Business Intelligence techniques to reduce the report response time by more than 68%. 
+●	Trained and mentored 1500+ clinicians and healthcare providers using electronic health records and dashboards, contributing to organizational growth and success.
 
 ## Publication and Conference:
 
