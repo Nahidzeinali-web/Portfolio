@@ -33,21 +33,24 @@ improved patient care.
 ✌️ Accomplishments:
 
 ● Data Analysis & Statistical Modeling: 
-   Analyzed Electronic Health Records using Python and statistical methods, yielding fundamental insights that enhanced medical research and patient care. 
-   Identified predictors of symptom reporting agreement between patients and providers using deep learning and statistical techniques.
+   -Analyzed Electronic Health Records using Python and statistical methods, yielding fundamental insights that enhanced medical research and patient care. 
+   
+   -Identified predictors of symptom reporting agreement between patients and providers using deep learning and statistical techniques.
+   
 ● Natural Language Processing (NLP) & Large Language Model (LLM): 
-   Collaborated closely with the research teams to develop an embeddings-augmented NLP system.
-   Understanding the language in clinical notes in the electronic health records (EHR) system using NLP techniques and text analysis. 
-   Developing and comparing a pre-trained language model (like Bio-Clinical BERT and GPT) on customized EHRs to predict 13 cancer symptoms and Palliative care.
-   Design specific prompts to guide GPT-4 in adapting to cancer symptom prediction and palliative care tasks.
+   -Collaborated closely with the research teams to develop an embeddings-augmented NLP system.
+   
+   -Understanding the language in clinical notes in the electronic health records (EHR) system using NLP techniques and text analysis. 
+   -Developing and comparing a pre-trained language model (like Bio-Clinical BERT and GPT) on customized EHRs to predict 13 cancer symptoms and Palliative care.
+   -Design specific prompts to guide GPT-4 in adapting to cancer symptom prediction and palliative care tasks.
 ● Mobile Application Development with AI Techniques: 
-   Contributed to developing the OASIS (Oncology Associated Symptoms & Individualized Strategies) mobile app, a tool designed to help people with cancer.
-   Collaborated with colleagues to develop deep-learning algorithms for the app's recommendation system, predicting 14 cancer symptoms in over 18,000 patients.
+   -Contributed to developing the OASIS (Oncology Associated Symptoms & Individualized Strategies) mobile app, a tool designed to help people with cancer.
+   -Collaborated with colleagues to develop deep-learning algorithms for the app's recommendation system, predicting 14 cancer symptoms in over 18,000 patients.
 ●	Assisted in A/B testing the OASIS prototype on 100 patients, assessing its real-world efficacy and user experience.
 Other Project: 
-   Collaborated with a team to extract web article content, develop a sentiment classifier, and perform cluster and topic analysis to identify prevalent themes.
-   Worked with a team to leverage Python-based tools and algorithms to enhance and innovate demand forecasting methodologies.
-   Developed a heart disease classification AI system using traditional machine learning models.
+   -Collaborated with a team to extract web article content, develop a sentiment classifier, and perform cluster and topic analysis to identify prevalent themes.
+   -Worked with a team to leverage Python-based tools and algorithms to enhance and innovate demand forecasting methodologies.
+   -Developed a heart disease classification AI system using traditional machine learning models.
 
 
 ● Mobile Application Development with AI Techniques: Championed design/implementation of mobile applications, serving niche group of fewer than 100 patients to optimize cancer symptom management and enhance overall patient experiences. Facilitated symptom tracking, queries, and access to educational content by developing an interactive and
@@ -85,10 +88,10 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 ● Solved Problems and Adapted to Software Development: Showcased exceptional problem-solving skills and adaptability while working on C/C++ programming and real-time sof
 
 ## Education:
-- Ph.D., Health Informatics (In Progress), University of Iowa, Iowa City, IA
-- M.S, Health Informatics, University of Iowa, Iowa City, IA
+- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA
+- M.S, Informatics, University of Iowa, Iowa City, IA
 - M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
-- B.S, Computer Software Engineering, Islamic Azad University, Isfahan, Iran
+- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran
 
 
 ## Publication and Conference:
