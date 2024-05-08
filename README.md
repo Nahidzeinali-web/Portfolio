@@ -1,5 +1,6 @@
-![I am data scientist](https://media.licdn.com/dms/image/D4D16AQHTujEeb_8qVA/profile-displaybackgroundimage-shrink_350_1400/0/1690406162505?e=1696464000&v=beta&t=Zv3CU7DcNAU63hxT0461_Z1itpDMHZbE4H4TDBbtfwk)
-### Hi there 👋, MY name is Nahid Zeinali
+href="images/favicon.ico"
+
+### Hi there 👋, This is Nahid Zeinali
 #### I am Data Scientist
 I am a dynamic professional with 8+ years of experience using data science and engineering methodologies to deliver tangible insights and enhance healthcare system outcomes. My research is focused on advancing AI techniques and using data-driven approaches to create deep learning algorithms for diverse clinical applications.
 ## Core Competencies:
@@ -124,16 +125,23 @@ Exhibited strong leadership capabilities, fostering effective team collaboration
 -  Networking: TCP/IP, VLAN, router & switch configuration
 -  Operating Systems & Tools: Windows, Linux, Azure, VMware, Active Directory, server clustering
 
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 ##  Honors & Awards 
 - Student Impact Grant(1000$), University of Iowa,Summer 2024
+  
 - AMIA 10*10 program funded (2000$) by Carver College of Medicine (CCOM), University of Iowa,Spring 2024
+  
 - Research and Travel GPSG Award (1250 $), University of Iowa, Spring 2024
+  
 - Research Assistant Grant (6000$), College of Nursing, University of Iowa,Spring 2024
+  
 - Publication Grant (2000$), University of Iowa,Winter2024
+  
 - Travel GSS Award (650$), Graduate College, University of Iowa,Winter2024
+  
 - Travel CS Award (400$), Computer Science Department, University of Iowa,Winter2024
+  
 - Recruitment Fellowship, IGPI (per year), University of Iowa, 2021- 2025
+  
 - Recruitment Fellowship, Tarbiat Modares University,2013 -2016
 
   
