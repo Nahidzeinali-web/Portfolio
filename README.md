@@ -31,7 +31,7 @@ I am a dynamic professional with 8+ years of experience using data science and e
 
 ## Internship, National Cancer Center, Federick National Laboratory, NIH,Summer 2024
 
-## Informatics Ph.D. Candidate, University of Iowa, Iowa City, IA Fall 2021 – Spring 2025
+## Informatics Ph.D. Candidate, University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
 improved patient care.
 
@@ -120,6 +120,7 @@ Other Project:
 -  Operating Systems & Tools: Windows, Linux, Azure, VMware, Active Directory, server clustering
 
 ##  Honors & Awards 
+
 - Student Impact Grant(1000$), University of Iowa, Summer 2024
   
 - AMIA 10*10 program funded (2000$) by Carver College of Medicine (CCOM), University of Iowa, Spring 2024
@@ -140,6 +141,7 @@ Other Project:
 
   
 ## Other
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NLP and Text analysis 
 - 💬 Ask me about Python programming and Text analysis
