@@ -1,5 +1,4 @@
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/diploma-two-color-square.png "Logo Title Text 1")
 
 ### Hi there 👋, This is Nahid Zeinali
 #### I am Data Scientist
