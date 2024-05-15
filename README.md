@@ -1,5 +1,5 @@
-### Hi there 👋, This is Nahid Zeinali
-#### I am Data Scientist
+### Hi there 👋 This is Nahid Zeinali
+#### I am a Data Scientist and a PhD candidate in the Informatics program at the University of Iowa.
 I am a dynamic professional with 8+ years of experience using data science and engineering methodologies to deliver tangible insights and enhance healthcare system outcomes. My research is focused on advancing AI techniques and using data-driven approaches to create deep learning algorithms for diverse clinical applications.
 ## Core Competencies:
 ♦ Health Informatics 
