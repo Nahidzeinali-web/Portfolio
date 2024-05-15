@@ -29,7 +29,8 @@ I am a dynamic professional with 8+ years of experience using data science and e
 
 ## Work Experineces:
 
-## Internship, National Cancer Center, Federick National Laboratory, NIH,Summer 2024
+## Teacher Assistant, Computer Science Department, University of Iowa, Fall 2024
+## Internship, National Cancer Center, Federick National Laboratory, NIH, Summer 2024
 
 ## Informatics Ph.D. Candidate, University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
@@ -135,7 +136,7 @@ Other Project:
   
 - Travel CS Award (400$), Computer Science Department, University of Iowa, Winter2024
   
-- Recruitment Fellowship, IGPI (per year), University of Iowa, 2021- 2025
+- Recruitment Fellowship, IGPI (per year), University of Iowa, 2021- 2024
   
 - Recruitment Fellowship, Tarbiat Modares University, 2013-2016
 
