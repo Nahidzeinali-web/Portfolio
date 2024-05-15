@@ -22,10 +22,10 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ♦ Problem-Solving Skills
 
 ## Education:
-- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA
-- M.S, Informatics, University of Iowa, Iowa City, IA, USA
-- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran
-- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran
+- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA, 2022-2025
+- M.S, Informatics, University of Iowa, Iowa City, IA, USA, 2021-2022
+- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran,2013-2016
+- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran, 2005-2010
 
 ## Work Experineces:
 
