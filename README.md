@@ -143,10 +143,10 @@ Other Project:
 ## Other
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NLP and Text analysis 
-- 💬 Ask me about Python programming and Text analysis
+- 🌱 I’m currently learning NLP ,Text analysis and Large Language Model like BERT, GPT, LLama, etc.
+- 💬 Ask me about Machine Learning, Deep learning and NLP
 - 📫 How to reach me: Nahid-zeinali@uiowa.edu
-- last updated: 05/07/2024
+- last updated: May 15, 2024
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZeinaliNahid)  
