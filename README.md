@@ -96,15 +96,16 @@ Other Project:
 
 •	N. Zeinali, Stephanie Gilbertson-White et al. “Machine Learning Approaches to predict symptoms in people with cancer: A Systematic Review.” JMIR cancer,2024. doi: 10.2196/52322.
 
-•	N. Zeinali, S. White, et al. “Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes.”  Under Review, Publication Pain, and symptom management,2024.
+•	N. Zeinali, S. White, et al. “Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes.”  Publication Pain, and symptom management,2024.
 
-•	A. AlBashayreh, N. Zeinali, et al. “Leveraging Spiritual-BERT for Characterizing Spiritual Care Documentation in EHRs of Older Adults.” Preparation for Journal, 2024.
-
-•	A. AlBashayreh, N. Zeinali, et al. “Natural Language Processing Accurately Differentiates Cancer Symptom Information in EHR Narratives.” Under review, JCO clinical cancer Informatics,2024.
+•	A. AlBashayreh, N. Zeinali, et al. “Natural Language Processing Accurately Differentiates Cancer Symptom Information in EHR Narratives.”  JCO clinical cancer Informatics,2024.
 
 •	S. White, N. Zeinali, et al., “Special Section on Patient-Reported Outcomes and Informatics: Predictors of Concordance Between Patient-Reported and Provider-Documented Symptoms in the Context of Cancer and Multimorbidity.” Under review, ACI,2024.
 
 •	A. Bandyopadhyay, N. Zeinali, et al. “Using real-world EHR data to predict the development of 12 cancer-related symptoms in multimorbidity. Predictive” Preparation for JAMIA,2024.
+•	A. AlBashayreh, N. Zeinali, et al. “Leveraging Spiritual-BERT for Characterizing Spiritual Care Documentation in EHRs of Older Adults.” Preparation for Journal, 2024.
+
+•  N. Zeinali, A. AlBashayreh et al. "Comparing Fine-Tuning Strategies and Prompt Engineering in Large Language Models for Identifying Anxiety and Nausea in Patients with Cancer from Clinical Notes"  Preparation for Journal, 2024.
 
 •	N. Zeinali, A. Asosheh, et al. “The Conceptual Model to Solve Problem of Interoperability in Health Information Systems.” 2016 8th International Symposium on Telecommunications (IST), 2016, pp. 684-689, doi: 10.1109/ISTEL.2016.7881909.
 
