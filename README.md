@@ -9,12 +9,15 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ♦ Data Validation & Modeling
 ♦ Visualization Techniques
 ♦ Text-Based Data Analysis
-♦ Machine Learning and Deep Learning Methods
-♦ Generative Models and NLP
-♦ Large Language Models (LLM) Development
+♦ Machine Learning (ML)
+♦ Deep Learning Methods (DL)
+♦ Natural Language Processing (NLP)
+♦ Generative Artificial Intelligence (AI)
+♦ Large Language Models (LLM)
 ♦ OpenAI 
 ♦ Prompt Engineering
-♦ Recommender Systems	Cross-Functional Partnership
+♦ Recommender Systems	
+♦ Cross-Functional Partnership
 ♦ Communication Skills
 ♦ Environment Adaptability
 ♦ Organizational Skills
