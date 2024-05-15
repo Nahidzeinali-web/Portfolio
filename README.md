@@ -22,7 +22,7 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ♦ Problem-Solving Skills
 
 ## Education:
-- Ph.D., Informatics (In Progress), University of Iowa, Iowa City, IA, USA, 2022-2025
+- Ph.D., Informatics (PhD. Candidate), University of Iowa, Iowa City, IA, USA, 2022-2025
 - M.S, Informatics, University of Iowa, Iowa City, IA, USA, 2021-2022
 - M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran,2013-2016
 - B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran, 2005-2010
@@ -30,9 +30,10 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ## Work Experineces:
 
 ## Teacher Assistant, Computer Science Department, University of Iowa, Fall 2024
+
 ## Internship, National Cancer Center, Federick National Laboratory, NIH, Summer 2024
 
-## Informatics Ph.D. Candidate, University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
+## Research Assistant, Computer Science/Informatics Department University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
 improved patient care.
 
