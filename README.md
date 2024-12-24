@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Nahid Zeinali
-#### I am a Data Scientist and a PhD candidate in the Informatics program at the University of Iowa.
+#### I am a Data Scientist and PhD in the Informatics program at the University of Iowa.
 I am a dynamic professional with 8+ years of experience using data science and engineering methodologies to deliver tangible insights and enhance healthcare system outcomes. My research is focused on advancing AI techniques and using data-driven approaches to create deep learning algorithms for diverse clinical applications.
 ## Core Competencies:
 ♦ Health Informatics 
@@ -25,17 +25,19 @@ I am a dynamic professional with 8+ years of experience using data science and e
 ♦ Problem-Solving Skills
 
 ## Education:
-- Ph.D., Informatics (PhD. Candidate), University of Iowa, Iowa City, IA, USA, 2022-2025
+- Ph.D., Informatics, University of Iowa, Iowa City, IA, USA, 2022-2025
 - M.S, Informatics, University of Iowa, Iowa City, IA, USA, 2021-2022
 - M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran,2013-2016
 - B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran, 2005-2010
 
 ## Work Experineces:
-
+## AI Research & Data Scientist at Calfornia Medical Inovation Institue
 ## Teacher Assistant, Computer Science Department, University of Iowa, Fall 2024
-
+Taught and facilitated discussion sessions for Introduction to Informatics and Python Programming courses.
+Provided one-on-one guidance and support to students, helping them understand complex ideas in informatics and develop strong Python coding skills
 ## Internship, National Cancer Center, Federick National Laboratory, NIH, Summer 2024
-
+Collaborated with the National Center for Advancing Translational Sciences (NCATS) on the RARe-SOURCE™ project. https://raresource.nih.gov/
+Implemented AI algorithms and utilized tools such as OpenAI models, LLaMA 3, LangChain, Ollama, Hugging Face, and RAG to search and analyze published literature for mentions of Farber diseases and associated genes.
 ## Research Assistant, Computer Science/Informatics Department University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
 Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
 improved patient care.
