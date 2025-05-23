@@ -111,7 +111,7 @@ I work at the California Medical Innovation Institute, developing AI-powered too
 ## 🌟 About Me
 
 - 🔭 I’m building and refining this portfolio page to reflect my evolving journey.
-- 🌱 Actively learning and exploring **Agentic AI**, **Multi-Constraint Prompting (MCP)**, and **LLMOps**.
+- 🌱 Actively learning and exploring **MLOps**, **LLMOps**, **Generative AI**, **Agentic AI**, **Model Context Protocol (MCP)** , and **Federated Learning**
 - 💬 Feel free to ask me about **Machine Learning**, **Deep Learning**, **NLP**, **Generative AI**, and **Agentic AI**.
 - 📫 **Let’s connect**: Nahid-zeinali@uiowa.edu
 - 📅 *Last updated: May 22, 2025*
