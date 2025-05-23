@@ -25,8 +25,8 @@ I work at the California Medical Innovation Institute, developing AI-powered too
 
 - **Ph.D., Informatics**, University of Iowa (2023–2025)  
 - **M.Sc., Informatics**, University of Iowa (2021–2023)  
-- **M.Sc., Medical Informatics**, Tarbiat Modares University  
-- **B.Sc., Computer Software Engineering**, Isfahan, Iran
+- **M.Sc., Medical Informatics**, Tarbiat Modares University, Tehran, Iran (2013–2016)  
+- **B.Sc., Computer Software Engineering**, Azad Najafabad, Isfahan, Iran (2005-2010)
 
 ---
 
