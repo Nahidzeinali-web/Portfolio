@@ -1,161 +1,119 @@
-### Hi there 👋 This is Nahid Zeinali
-#### I am a Data Scientist and PhD in the Informatics program at the University of Iowa.
-I am a dynamic professional with 8+ years of experience using data science and engineering methodologies to deliver tangible insights and enhance healthcare system outcomes. My research is focused on advancing AI techniques and using data-driven approaches to create deep learning algorithms for diverse clinical applications.
-## Core Competencies:
-♦ Health Informatics 
-♦ Programming Skills
-♦ Large-Scale Data Analysis
-♦ Predictive Modeling
-♦ Data Validation & Modeling
-♦ Visualization Techniques
-♦ Text-Based Data Analysis
-♦ Machine Learning (ML)
-♦ Deep Learning Methods (DL)
-♦ Natural Language Processing (NLP)
-♦ Generative Artificial Intelligence (AI)
-♦ Large Language Models (LLM)
-♦ OpenAI 
-♦ Prompt Engineering
-♦ Recommender Systems	
-♦ Cross-Functional Partnership
-♦ Communication Skills
-♦ Environment Adaptability
-♦ Organizational Skills
-♦ Teamwork and Independent Work
-♦ Problem-Solving Skills
 
-## Education:
-- Ph.D., Informatics, University of Iowa, Iowa City, IA, USA, 2022-2025
-- M.S, Informatics, University of Iowa, Iowa City, IA, USA, 2021-2022
-- M.S, Medical Informatics, Tarbiat Modares University, Tehran, Iran,2013-2016
-- B.S, Computer Software Engineering, Isfahan University, Isfahan, Iran, 2005-2010
+# 👋 Hi there — I'm Nahid Zeinali
 
-## Work Experineces:
-## AI Research & Data Scientist at Calfornia Medical Inovation Institue
-## Teacher Assistant, Computer Science Department, University of Iowa, Fall 2024
-Taught and facilitated discussion sessions for Introduction to Informatics and Python Programming courses.
-Provided one-on-one guidance and support to students, helping them understand complex ideas in informatics and develop strong Python coding skills
-## Internship, National Cancer Center, Federick National Laboratory, NIH, Summer 2024
-Collaborated with the National Center for Advancing Translational Sciences (NCATS) on the RARe-SOURCE™ project. https://raresource.nih.gov/
-Implemented AI algorithms and utilized tools such as OpenAI models, LLaMA 3, LangChain, Ollama, Hugging Face, and RAG to search and analyze published literature for mentions of Farber diseases and associated genes.
-## Research Assistant, Computer Science/Informatics Department University of Iowa, Iowa City, IA, Fall 2021 – Spring 2025
-Transform cancer symptom management through innovative integration of artificial intelligence (AI), resulting in unparalleled patient care and outcomes advancements. Provide compassionate and empathetic support to individuals grappling with cancerrelated symptoms and stressors, fostering resilience and enhanced well-being. Implement cutting-edge machine learning techniques and data-driven methodologies to develop personalized symptom management recommendations leading to
-improved patient care.
+I’m a Senior AI Research and data Scientist with 9+ years of hands-on experience at the intersection of software engineering, healthcare, and artificial intelligence. I hold a Ph.D. in Informatics from the University of Iowa, where my work focused on leveraging NLP, LLMs, and deep learning to transform clinical decision support.
 
-✌️ Accomplishments:
+Currently, I work at the California Medical Innovation Institute, developing AI-powered tools and LLM pipelines for research data management and biomedical informatics. I specialize in designing end-to-end ML and LLMOps systems, from data ingestion and model development to scalable deployment using cloud-native and containerized solutions.
 
-● Data Analysis & Statistical Modeling: 
+---
+## 🔍 Core Expertise
 
-   -Analyzed Electronic Health Records using Python and statistical methods, yielding fundamental insights that enhanced medical research and patient care. 
-   
-   -Identified predictors of symptom reporting agreement between patients and providers using deep learning and statistical techniques.
-   
-● Natural Language Processing (NLP) & Large Language Model (LLM): 
+- **AI for Healthcare & Clinical Informatics** – Applying machine learning, deep learning, and NLP to improve symptom detection, patient outcomes, and decision support in clinical settings.
+- **Natural Language Processing (NLP)** – Advanced expertise in NER, sentiment analysis, tokenization, clinical text mining, and embedding-based semantic search.
+- **Large Language Models (LLMs)** – Hands-on experience with GPT, LLaMA, BERT, RoBERTa, Groq; techniques including fine-tuning, RAG, prompt engineering, few-shot & zero-shot learning, and agentic AI development.
+- **LLMOps & MLOps Engineering**: Full lifecycle workflows using MLflow, DVC, DagsHub, LangChain, LangGraph, and experiment tracking with GitHub Actions and Astro.
+- **Cloud & DevOps** – Deploying scalable models on AWS SageMaker and Google Cloud; integrating services like Lambda, Bedrock, S3; CI/CD automation and containerization with Docker.
+- **AI App Development** – Development of AI-powered tools, mobile apps (e.g., OASIS), and web-based systems using FastAPI, Android, and REST APIs.
+- **Generative AI Applications** – Building GPT-based agents for tasks like synthetic clinical note generation, data management plan (DMP) creation, and biomedical literature search.
+- **Data Engineering & Statistical Modeling** – Expertise in Pandas, NumPy, Keras, Scikit-learn, TensorFlow, PyTorch, R, SPSS, SAS, and STATA.
+- **Visualization & Reporting** – Creating insights through dashboards, Power BI reports, and clustering/topic modeling for health data analysis.
+- **Database Systems** – Experience with SQL Server, PostgreSQL, MongoDB, FAISS, ChromaDB, Cassandra, and ASTAR DB.
+- **Networking & Systems** – Proficient with TCP/IP, VLAN, VMware, Linux, Windows, Active Directory, and server clustering.
+---
 
-   -Collaborated closely with the research teams to develop an embeddings-augmented NLP system.
-   
-   -Understanding the language in clinical notes in the electronic health records (EHR) system using NLP techniques and text analysis. 
-   
-   -Developing and comparing a pre-trained language model (like Bio-Clinical BERT and GPT) on customized EHRs to predict 13 cancer symptoms and Palliative care.
-   
-   -Design specific prompts to guide GPT-4 in adapting to cancer symptom prediction and palliative care tasks.
-   
-● Mobile Application Development with AI Techniques: 
+## 🎓 Education
 
-   -Contributed to developing the OASIS (Oncology Associated Symptoms & Individualized Strategies) mobile app, a tool designed to help people with cancer.
-   
-   -Collaborated with colleagues to develop deep-learning algorithms for the app's recommendation system, predicting 14 cancer symptoms in over 18,000 patients.
-   
-●	Assisted in A/B testing the OASIS prototype on 100 patients, assessing its real-world efficacy and user experience.
+- **Ph.D., Informatics**, University of Iowa (2023–2025)  
+- **M.Sc., Informatics**, University of Iowa (2021–2023)  
+- **M.Sc., Medical Informatics**, Tarbiat Modares University  
+- **B.Sc., Computer Software Engineering**, Isfahan, Iran
 
-Other Project: 
+---
 
-   -Collaborated with a team to extract web article content, develop a sentiment classifier, and perform cluster and topic analysis to identify prevalent themes.
-   
-   -Worked with a team to leverage Python-based tools and algorithms to enhance and innovate demand forecasting methodologies.
-   
-   -Developed a heart disease classification AI system using traditional machine learning models.
+## 💼 Selected Roles
 
+- **Sr. AI Research Scientist**, California Medical Innovation Institute  
+- **Research Assistant**, University of Iowa (Cancer symptom detection using BERT/GPT)  
+- **Intern**, NIH/NCATS, RARe-SOURCE™ AI pipeline for rare disease literature  
+- **Teaching Assistant**, University of Iowa (Python, Informatics)  
+- **Software Engineer**, Khorshid Hospital & Parisian Institute (EHR, mobile apps)
 
-## Software Engineer, Khorshid Hospital, Isfahan, Iran 2019 – 2021
+---
 
-✌️ Accomplishments:
+## 🧠 Recent Projects & Contributions
 
-●	Collaborated closely with the business teams to develop Electronic Medical Records (EMR), Pharmacy Information Systems (PIS), and Laboratory Information Systems (LIS). This collaboration resulted in streamlined healthcare workflows, enhanced data management, and improved patient care delivery by more than 50%.
-●	Developed an Android application for the automated tracking of heart failure symptoms of over 3,000 heart disease patients in rural areas of Isfahan province.
+- **NIH-Compliant DMP Generator**  
+  Designed an automated pipeline using GPT-4 and LLaMA to generate NIH-compliant Data Management Plans (DMPs). Integrated prompt engineering and multi-metric evaluation (automated + human review) to ensure quality and compliance.
 
-## Software Engineer, Parisian Institute, Tehran, Iran 2016 – 2019
+- **AI-Ready Envision Portal**  
+  Built a FAIR-compliant ophthalmic imaging pipeline using Croissant metadata. Enabled AI-readiness and standardized data sharing for disease analysis and machine learning workflows.
 
-✌️ Accomplishments:
+- **Symptom Detection in Cancer Patients**  
+  Developed and fine-tuned multiple LLMs (BERT, GPT, LLaMA) on Electronic Health Records (EHRs) to extract 13 cancer symptoms and palliative care indicators using prompt tuning, embedding techniques, and named entity recognition (NER).
 
-●	Designed and implemented an efficient Electronic Health Records (EHR) management dashboard system using Business Intelligence techniques to reduce the report response time by more than 68%. 
-●	Trained and mentored 1500+ clinicians and healthcare providers using electronic health records and dashboards, contributing to organizational growth and success.
+- **Synthetic Clinical Notes Generation**  
+  Utilized GPT-4 to generate synthetic, realistic clinical notes for benchmarking models in low-resource domains, improving robustness and external validation in healthcare AI pipelines.
 
-## Publication and Conference:
+- **OASIS Mobile App for Symptom Prediction**  
+  Co-developed an AI-driven mobile app to predict 14 cancer-related symptoms in 18,000+ patients. Contributed deep learning models for personalized recommendations and participated in A/B testing with real patients.
 
+- **AI Chatbot for Rare Disease Literature Mining**  
+  Created an LLM-powered chatbot with NIH/NCATS for the RARe-SOURCE™ project to extract gene-disease associations (e.g., Farber disease) from biomedical literature using LangChain, Ollama, and RAG.
 
-•	N. Zeinali (Presenter), A. AlBashayreh, et al. “Comparison of BERT Implementations for Enhanced Cancer Symptoms Extraction from Electronic Health Records.” 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC), Laguna Hills, CA, USA, 2024, pp. 18-19, doi: 10.1109/AIMHC59811.2024.00011. 
+- **Web-based NLP Applications**  
+  Built sentiment classifiers and conducted topic modeling and clustering to identify trends and themes from web-based health content using NLTK, Scikit-learn, and custom NLP pipelines.
 
-•	N. Zeinali, Stephanie Gilbertson-White et al. “Machine Learning Approaches to predict symptoms in people with cancer: A Systematic Review.” JMIR cancer,2024. doi: 10.2196/52322.
+---
 
-•	N. Zeinali, S. White, et al. “Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes.”  Publication Pain, and symptom management,2024.
+## 📚 Selected Publications
 
-•	A. AlBashayreh, N. Zeinali, et al. “Natural Language Processing Accurately Differentiates Cancer Symptom Information in EHR Narratives.”  JCO clinical cancer Informatics,2024.
+- **Zeinali, N.**, S. White, et al. *Using Large Language Models to Detect Anxiety and Nausea/Vomiting Documentation in Clinical Notes of Patients with Cancer*, to be prepared for CIN Journal (2025).
+- AlBashayreh, A., **Zeinali, N.**, S. Gilbertson-White. *An Informatics Approach to Characterizing Spiritual Care Documentation in Electronic Health Records of Older Adults*, ACI Journal (2025).
+- AlBashayreh, A., **Zeinali, N.**, S. Gilbertson-White. *Innovating the Detection of Care Priorities in Heart Failure Using Large Language Models*, Innovation in Aging (2024).
+- **Zeinali, N.**, S. Gilbertson-White, et al. *Machine Learning Approaches to Predict Symptoms in People with Cancer: A Systematic Review*, JMIR Cancer (2024).
+- **Zeinali, N.**, S. White, et al. *Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes*, Journal of Pain and Symptom Management (2024).
+- AlBashayreh, A., Bandyopadhyay, A., **Zeinali, N.**, et al. *NLP Differentiates Cancer Symptom Information in EHR Narratives*, JCO Clinical Cancer Informatics (2024).
+- White, S., AlBashayreh, A., Bandyopadhyay, A., **Zeinali, N.**, et al. *Concordance Between Patient-Reported and Provider-Documented Symptoms*, ACI (2024).
+- Bandyopadhyay, A., AlBashayreh, A., **Zeinali, N.**, et al. *Predicting Development of Cancer-Related Symptoms Using EHR Data*, Open JAMIA (2024).
+- Nazari, E., **Zeinali, N.**, et al. *Application of Big Data Analysis in Healthcare Based on Health System Framework*, Dokkyo Journal of Medical Sciences (2021).
+- **Zeinali, N.**, Asosheh, A., et al. *Interoperability in Hospital Information Systems*, Journal of Health and Biomedical Informatics (2017).
+- **Zeinali, N.**, Asosheh, A., et al. *The Conceptual Model to Solve Interoperability in Health Information Systems*, IST (2016).
+- Delaram, Z., **Zeinali, N.**, et al. *The Common Applications of Social Networks in Healthcare*, Health Information Management (2016).
 
-•	S. White, N. Zeinali, et al., “Special Section on Patient-Reported Outcomes and Informatics: Predictors of Concordance Between Patient-Reported and Provider-Documented Symptoms in the Context of Cancer and Multimorbidity.” Under review, ACI,2024.
+---
+## 🗣️ Presentations & Posters
 
-•	A. Bandyopadhyay, N. Zeinali, et al. “Using real-world EHR data to predict the development of 12 cancer-related symptoms in multimorbidity. Predictive” Preparation for JAMIA,2024.
-•	A. AlBashayreh, N. Zeinali, et al. “Leveraging Spiritual-BERT for Characterizing Spiritual Care Documentation in EHRs of Older Adults.” Preparation for Journal, 2024.
+- **Zeinali, N.**, Patel, B., et al. *Evaluating the Effectiveness of Open-Source LLMs for NIH DMPs*, International Data Week (SciDataCon 2025).
+- **Zeinali, N.**, AlBashayreh, A., et al. *Comparison of BERT Implementations for Cancer Symptoms Extraction*, IEEE AIMHC 2024.
+- **Zeinali, N.**, Gilbertson-White, S., et al. *Advanced Detection of Nausea/Vomiting and Anxiety in Cancer Patients*, AMIA 2024 Annual Symposium.
+- AlBashayreh, A., **Zeinali, N.**, et al. *Leveraging Spiritual-BERT for Spiritual Care Documentation in Heart Failure*, AMIA 2024.
+- AlBashayreh, A., **Zeinali, N.**, et al. *Innovating Care Priorities in Heart Failure Using LLMs*, GSA 2024 Poster.
+- AlBashayreh, A., **Zeinali, N.**, et al. *Disparities in Advance Directive Completion in Older Adults*, Hospice & Palliative Care Assembly 2024.
+- **Zeinali, N.**, Gilbertson-White, S., et al. *NER for Anxiety and Nausea/Vomiting in Cancer Clinical Notes*, AMIA Informatics Summit 2025.
 
-•  N. Zeinali, A. AlBashayreh et al. "Comparing Fine-Tuning Strategies and Prompt Engineering in Large Language Models for Identifying Anxiety and Nausea in Patients with Cancer from Clinical Notes"  Preparation for Journal, 2024.
+---
+## 🏆 Honors & Awards
 
-•	N. Zeinali, A. Asosheh, et al. “The Conceptual Model to Solve Problem of Interoperability in Health Information Systems.” 2016 8th International Symposium on Telecommunications (IST), 2016, pp. 684-689, doi: 10.1109/ISTEL.2016.7881909.
-
-•	Nazari E, Zeinali N, et al. “Application of Big Data Analysis in Healthcare Based on 6 Building Blocks of Health Systems: Survey”. Dokkyo Journal of Medical Sciences (DJMS) 2020. 
-
-•	Shah Moradi M, Zeinali N, et al. “The Role of Social Networks in Healthcare: Applications and Limitations”. Journal of Health and Biomedical Informatics 2015; 2(2):124-128.
-
-## 📌 Skills:
--  Programming & Frameworks: Python, MATLAB, C/C++/C#, ASP.net, Android, JavaScript, HTML, XML
--  Data Analysis: Pandas, NumPy 
--  Machine Learning and Deep Learning: Frameworks (like: TensorFlow, pytorch, sklearn, keras)
--  NLP & LLM: NLTK, Spacy, BERT, GPT, LLaMa
--  Cloud Platforms:  Google Cloud, HPC cluster
--  Databases: MS SQL Server, MS Access
--  Statistics Tools: R, SPSS, SAS, STATA
--  Visualization: Power BI
--  Networking: TCP/IP, VLAN, router & switch configuration
--  Operating Systems & Tools: Windows, Linux, Azure, VMware, Active Directory, server clustering
-
-##  Honors & Awards 
-
-- Student Impact Grant(1000$), University of Iowa, Summer 2024
+- Excellent Award Research — Spring 2025  
+- Ballard and Seashore Dissertation Fellowship, University of Iowa — Spring 2025  
+- Student Impact Grant, University of Iowa — Summer 2024  
+- AMIA 10x10 Program (funded by CCOM, University of Iowa) — Spring 2024  
+- Research and Travel GPSG Award, University of Iowa — Spring & Fall 2024  
+- Research Assistant Grant, College of Nursing, University of Iowa — Spring 2024  
+- Publication Grant, University of Iowa — Winter 2024  
+- Travel GSS Award, Graduate College, University of Iowa — Spring & Fall 2024  
+- Travel CS Award, Computer Science Dept., University of Iowa — Spring & Fall 2024  
+- Recruitment Fellowship, IGPI, University of Iowa — 2021–2024  
+- Recruitment Fellowship, Tarbiat Modares University — 2013–2016
   
-- AMIA 10*10 program funded (2000$) by Carver College of Medicine (CCOM), University of Iowa, Spring 2024
-  
-- Research and Travel GPSG Award (1250 $), University of Iowa, Spring 2024
-  
-- Research Assistant Grant (6000$), College of Nursing, University of Iowa, Spring 2024
-  
-- Publication Grant (2000$), University of Iowa, Winter2024
-  
-- Travel GSS Award (650$), Graduate College, University of Iowa, Winter2024
-  
-- Travel CS Award (400$), Computer Science Department, University of Iowa, Winter2024
-  
-- Recruitment Fellowship, IGPI (per year), University of Iowa, 2021- 2024
-  
-- Recruitment Fellowship, Tarbiat Modares University, 2013-2016
+---
 
-  
-## Other
+## 🌟 About Me
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NLP ,Text analysis and Large Language Model like BERT, GPT, LLama, etc.
-- 💬 Ask me about Machine Learning, Deep learning and NLP
-- 📫 How to reach me: Nahid-zeinali@uiowa.edu
-- last updated: May 15, 2024
+- 🔭 I’m building and refining this portfolio page to reflect my evolving journey.
+- 🌱 Actively learning and exploring **Agentic AI**, **Multi-Constraint Prompting (MCP)**, and **LLMOps**.
+- 💬 Feel free to ask me about **Machine Learning**, **Deep Learning**, **NLP**, **Generative AI**, and **Agentic AI**.
+- 📫 **Let’s connect**: Nahid-zeinali@uiowa.edu
+- 📅 *Last updated: May 22, 2025*
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZeinaliNahid)  
 
