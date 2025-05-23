@@ -3,7 +3,7 @@
 
 I’m a Senior AI Research and data Scientist with 9+ years of hands-on experience at the intersection of software engineering, healthcare, and artificial intelligence. I hold a Ph.D. in Informatics from the University of Iowa, where my work focused on leveraging NLP, LLMs, and deep learning to transform clinical decision support.
 
-Currently, I work at the California Medical Innovation Institute, developing AI-powered tools and LLM pipelines for research data management and biomedical informatics. I specialize in designing end-to-end ML and LLMOps systems, from data ingestion and model development to scalable deployment using cloud-native and containerized solutions.
+I work at the California Medical Innovation Institute, developing AI-powered tools and LLM pipelines for research data management and biomedical informatics. I specialize in designing end-to-end ML and LLMOps systems, from data ingestion and model development to scalable deployment using cloud-native and containerized solutions.
 
 ---
 ## 🔍 Core Expertise
@@ -33,7 +33,7 @@ Currently, I work at the California Medical Innovation Institute, developing AI-
 ## 💼 Selected Roles
 
 - **Sr. AI Research Scientist**, California Medical Innovation Institute  
-- **Research Assistant**, University of Iowa (Cancer symptom detection using BERT/GPT)  
+- **Research Assistant**, University of Iowa (ML, DL, NLP, AI in healthcare) 
 - **Intern**, NIH/NCATS, RARe-SOURCE™ AI pipeline for rare disease literature  
 - **Teaching Assistant**, University of Iowa (Python, Informatics)  
 - **Software Engineer**, Khorshid Hospital & Parisian Institute (EHR, mobile apps)
